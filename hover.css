@@ -1,0 +1,92 @@
+body{
+    background: skyblue;
+}
+.content{
+    margin10
+    border: 1px solid black;
+   
+}
+.container{
+    padding: 10px;
+    background: gray;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.box {
+    width: 100%;
+    height: 50px;
+    background: aqua;
+}
+.box1{
+    padding: 16px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    border: 1px solid;
+}
+}
+.mid{
+    
+}
+.mid1 {
+    padding-top: 16px;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border: 1px solid; 
+}
+.mid1 h2{
+    line-height: 300px;
+    text-align: center;
+}
+.start{
+    padding: 16px;
+    outline: none;
+    /* background: pink; */
+    border-radius: 50px;
+    /* padding: 10px; */
+    border: none;
+    max-height: 600px;
+    max-width: 600px;
+    display: flex;
+}
+.column{    
+    padding: 10px;
+    background: ivory;
+    margin: 0 10px;
+    border-radius: 50px;
+    /* border: 1px solid;  */
+    flex: 1;
+}
+.column1{
+    flex: 1;
+    
+}
+
+.column2{
+    margin-bottom: 5px;
+    border-radius: 50px;
+    background: floralwhite;
+    padding: 22px 20px;
+    /* border: 1px solid;  */
+   
+}
+.column3{
+    background: lemonchiffon;
+    border-radius: 50px;
+    /* border: 1px solid;  */
+   padding: 22px 20px;
+}
+button{
+    padding-left: 100px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    background: greenyellow;
+    padding: 7px 20px;
+}
+button:hover{
+    opacity: 0.8;
+}

@@ -1,0 +1,123 @@
+.head{
+    background-color: white;
+    width: 100%;
+    border: 1px solid rgb(235, 226, 226);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.logo{
+    font-size: 20px;
+    padding: 16px 12px;
+}
+.menu{
+    padding: 18px;
+}
+.menu ul{
+    padding: 16px;
+    margin: 20px;
+    list-style: none;
+    display: flex;
+}
+.menu li{
+    /* margin: 20px; */
+}
+.menu a{
+    font-size: 25px;
+    margin: 40px;
+    text-decoration: none;
+}
+.ptmid img{ 
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 900px;
+}
+.ptmid{
+    margin: auto;
+    max-height: 800px;
+    max-width: 800px;
+    /* border: 1px solid black; */
+}
+.contentmid{
+    text-align: center;
+    font-size: 40px;
+}
+.container{
+    margin: auto;
+    display: flex;
+    max-width: 1158px;
+    /* border: 1px solid black; */
+ /* background-color: aqua; */
+ justify-content: space-around;
+}
+.mid img{
+    
+    /* border: 1px solid black; */
+    height: 200px;
+    padding: 30px 0;
+}
+.mid{
+    margin: 10px;
+    width: 374px ;
+    height: 279px;
+    padding: 0 70px;
+    margin-top: 400px;
+    /* background: #CCCCCC; */
+    /* border: 1px solid black  */
+}
+.mid1 p{
+    font-size: 30px;
+    text-align: center;
+}
+footer{
+    background-color: white;
+    width: 100%;
+    border: 1px solid rgb(235, 226, 226);
+    margin-top:200px ;
+}
+.end{
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+    /* background: gray; */
+}
+.logoend{
+    outline: none;
+    text-align: center;
+}
+.btn{
+    padding-left: 50px;
+
+    padding: 12px 48px;
+    border-radius:50px ;
+    border: none;
+    outline: none;
+    background: transparent;
+    cursor: pointer;
+}
+.btn--nghi{
+    background: #ed1e24;
+}
+.btn:hover{
+    opacity: 0.9;
+
+}
+.content{
+    padding-left: 50px;
+    padding: 40px;
+    text-align: center;
+    max-width: 400px;
+    /* border: 1px solid black; */
+    margin: auto;
+    padding: 12px 16px;
+}
+.ip input{
+    outline: none;
+    border-radius: 70px;
+    padding:10px 60px;
+}
+.ip input:hover{
+    opacity: 0.7;
+}
