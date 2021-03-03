@@ -1,0 +1,33 @@
+.boding{
+    margin: auto ;
+    width: 1000px;
+    border: 1px solid;
+}
+.newhot{
+    display: flex;
+    margin: 10px 0;
+}
+
+/* .ptbig img{
+    width: 100%; */
+.rig{
+    width: 100%;
+}
+.ptbig2{
+    border:1px solid;
+    background-color:red ;
+    width: 260px;
+    height: 200px;
+}
+.ptbig3{
+    margin: 0 8px;
+    border:1px solid;
+    background-color:blue ;
+    width: 260px;
+    height: 200px;
+}
+.ptlage{
+    width: 100%;
+    margin: ;
+    display:flex ;
+}
